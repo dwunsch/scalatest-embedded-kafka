@@ -4,7 +4,7 @@ parallelExecution in ThisBuild := false
 
 val kafkaVersion = "1.0.0"
 val zookeeperVersion = "3.4.10"
-val akkaVersion = "2.4.20"
+val akkaVersion = "2.5.9"
 
 val slf4jLog4jOrg = "org.slf4j"
 val slf4jLog4jArtifact = "slf4j-log4j12"
